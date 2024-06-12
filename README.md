@@ -1,4 +1,4 @@
-# **Semantic-Similarity-between-two-Sentences**
+# **Text-Similarity-Analyzer**
 
 ## **Part A: Task Description:**
 The task at hand involves evaluating the semantic similarity between two paragraphs. Semantic Textual Similarity (STS) measures the extent to which two pieces of text convey similar meanings. STS entails assesses the degree to which two sentences are semantically equivalent to each other. Our task is to involves the producing real-valued similarity scores for sentence pairs.
